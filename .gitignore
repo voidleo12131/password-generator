@@ -1,0 +1,3 @@
+# 編譯產物：exe 放在 GitHub Releases，不放進 repo
+*.exe
+*.pdb
